@@ -583,7 +583,9 @@ if selected == "Contributors":
     23.	Shilpa Gollamudi
     24.	Sourav Dutta 
     25.	Srijeeta Mukherjee
-    26.	Wallace Ferreira
+    26. Vimukta Dashora 
+    27.	Wallace Ferreira
+    
     """
 
     st.text(contributors)
