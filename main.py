@@ -569,7 +569,7 @@ if selected == "Contributors":
     9.	Ayushka Behere
     10.	Dhruvil Jain
     11.	Kshitij Singh
-    12.	Mansuriya Raj Kalpeshbhai
+    12.	Raj Mansuriya
     13.	Muskaan Bahri
     14.	Navneet Lamba 
     15.	Pranav Pratyush
