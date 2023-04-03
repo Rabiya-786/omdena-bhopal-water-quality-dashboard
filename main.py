@@ -552,7 +552,8 @@ if selected == "Contributors":
     st.subheader("Contributors")
 
 
-    st.write("Project Leads-  [Vaasu Bisht](https://github.com/vaasu2002) and [Eeman Majumder](https://github.com/Eeman1113)")
+    st.write("Project Leads -  [Vaasu Bisht](https://github.com/vaasu2002) and [Eeman Majumder](https://github.com/Eeman1113)")
+    st.write("M<anagement and HR -  [Sakshi Sawarkar](https://www.linkedin.com/in/sakshi-sawarkar-8546681aa)")
     contributors = """
 
     Project Contributors in aplhabetical order:
