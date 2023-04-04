@@ -557,37 +557,38 @@ if selected == "Contributors":
     contributors = """
 
     Project Contributors in aplhabetical order:
-
-    1.	Aditya Bhate
-    2.	Aiswarya Jyothirmayi Devi
-    3.	Akshit Srivastava 
-    4.	Ameya Sharma
-    5.	Ananya Mohanty 
-    6.	Ananya Tiwari
-    7.	Aniruddha Kumar
-    8.	Astha Srivastava 
-    9.	Ayushka Behere
-    10.	Dhruvil Jain
-    11.	Kshitij Singh
-    12.	Raj Mansuriya
-    13.	Muskaan Bahri
-    14.	Navneet Lamba 
-    15.	Pranav Pratyush
-    16.	Punya Saraogi
-    17.	Pushpendra Kushwaha
-    18.	Qurat Ul Aaein 
-    19.	Reem Abdel-Salam
-    20.	Rishit Chugh 
-    21.	Rishita Bansal 
-    22.	Sayan Kumar
-    23.     Shantanu Sugriv Kshirsagar
-    24.     Shashank Singh
-    25.	Shilpa Gollamudi
-    26.     Shinjan Verma
-    27.	Sourav Dutta 
-    28.	Srijeeta Mukherjee
-    29.     Vimukta Dashora 
-    30.	Wallace Ferreira
+1	Aditya Bhate
+2	Aiswarya Jyothirmayi Devi
+3	Akshit Srivastava
+4	Aman Makwana
+5	Ameya Sharma
+6	Ananya Mohanty
+7	Ananya Tiwari
+8	Aniruddha Kumar
+9	Astha Srivastava
+10	Ayushka Behere
+11	Dhruvil Jain
+12	Kshitij Singh
+13	Lauren Williams
+14	Muskaan Bahri
+15	Navneet Lamba
+16	Pranav Pratyush
+17	Punya Saraogi
+18	Pushpendra Kushwaha
+19	Qurat Ul Aaein
+20	Raj Mansuriya
+21	Reem Abdel-Salam
+22	Rishit Chugh
+23	Rishita Bansal
+24	Sayan Kumar
+25	Shantanu Sugriv Kshirsagar
+26	Shashank Singh
+27	Shilpa Gollamudi
+28	Shinjan Verma
+29	Sourav Dutta
+30	Srijeeta Mukherjee
+31	Vimukta Dashora
+32	Wallace Ferreira
     
     """
 
