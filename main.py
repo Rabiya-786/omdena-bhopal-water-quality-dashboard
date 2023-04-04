@@ -582,10 +582,11 @@ if selected == "Contributors":
     22.	Sayan Kumar
     23.     Shantanu Sugriv Kshirsagar
     24.	Shilpa Gollamudi
-    25.	Sourav Dutta 
-    26.	Srijeeta Mukherjee
-    27.     Vimukta Dashora 
-    28.	Wallace Ferreira
+    25.     Shinjan Verma
+    26.	Sourav Dutta 
+    27.	Srijeeta Mukherjee
+    28.     Vimukta Dashora 
+    29.	Wallace Ferreira
     
     """
 
