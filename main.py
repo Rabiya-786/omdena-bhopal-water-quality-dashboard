@@ -581,12 +581,13 @@ if selected == "Contributors":
     21.	Rishita Bansal 
     22.	Sayan Kumar
     23.     Shantanu Sugriv Kshirsagar
-    24.	Shilpa Gollamudi
-    25.     Shinjan Verma
-    26.	Sourav Dutta 
-    27.	Srijeeta Mukherjee
-    28.     Vimukta Dashora 
-    29.	Wallace Ferreira
+    24.     Shashank Singh
+    25.	Shilpa Gollamudi
+    26.     Shinjan Verma
+    27.	Sourav Dutta 
+    28.	Srijeeta Mukherjee
+    29.     Vimukta Dashora 
+    30.	Wallace Ferreira
     
     """
 
