@@ -598,7 +598,9 @@ if selected == "Contributors":
 
 
 if selected == "Dashboards":
-
+    
+    st.write("Tableau webapp - [link](https://demon-2-angel-omdenavitb-wqa-stre-streamlit-with-tableau-dfdikt.streamlit.app/)")
+    
     st.write("Turbidity vs DOM vs Salinity vs SPM - [link](https://public.tableau.com/app/profile/akshit.srivastava/viz/Book2_16791413197210/TurbidityvsDOMvsSalinityvsSPM?publish=yes)")
     st.write("Cholorphyll vs PH vs DO - [link](https://public.tableau.com/app/profile/akshit.srivastava/viz/ChyllvspHvsDO/CholorphyllvsPHvsDO?publish=yes)")
     st.write("pH v Salinity - [link](https://public.tableau.com/app/profile/akshit.srivastava/viz/pHvsSalinity/pHvSalinity_1?publish=yes)")
@@ -612,7 +614,6 @@ if selected == "Dashboards":
     st.write("Lendiya Lake (Dissolved Oxygen v Chlorophyll v Turbidity) [link](https://public.tableau.com/views/OmdenaBhopal-LendiyaLake/DOvsCvsTurb?:language=en-US&:display_count=n&:origin=viz_share_link)")
     st.write("Lendiya Lake (Drinking Water Quality) [link](https://public.tableau.com/views/OmdenaBhopal-LendiyaLake/DrinkingWaterQuality?:language=en-US&:display_count=n&:origin=viz_share_link)")
     st.write("Lendiya Lake (Temperature) [link](https://public.tableau.com/views/OmdenaBhopal-LendiyaLake/Temperature-Dash?:language=en-US&:display_count=n&:origin=viz_share_link)")
-
 
 
 
