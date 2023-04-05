@@ -391,6 +391,10 @@ if selected =='Insights':
 
 
         """
+        
+        
+        st.write("More Insights by Aniruddha Kumar [link](https://demon-2-angel-omdenavitb-wqa-stre-streamlit-with-tableau-dfdikt.streamlit.app/)")
+        
         st.text(str_findings)
         st.subheader('Conclusion')
             
