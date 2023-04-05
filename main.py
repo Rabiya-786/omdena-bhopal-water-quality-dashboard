@@ -570,25 +570,26 @@ if selected == "Contributors":
 11	Dhruvil Jain
 12	Kshitij Singh
 13	Lauren Williams
-14	Muskaan Bahri
-15	Navneet Lamba
-16	Pranav Pratyush
-17	Punya Saraogi
-18	Pushpendra Kushwaha
-19	Qurat Ul Aaein
-20	Raj Mansuriya
-21	Reem Abdel-Salam
-22	Rishit Chugh
-23	Rishita Bansal
-24	Sayan Kumar
-25	Shantanu Sugriv Kshirsagar
-26	Shashank Singh
-27	Shilpa Gollamudi
-28	Shinjan Verma
-29	Sourav Dutta
-30	Srijeeta Mukherjee
-31	Vimukta Dashora
-32	Wallace Ferreira
+14	Modekurthi Subrahmanya Satwick 
+15	Muskaan Bahri
+16	Navneet Lamba
+17	Pranav Pratyush
+18	Punya Saraogi
+19	Pushpendra Kushwaha
+20	Qurat Ul Aaein
+21	Raj Mansuriya
+22	Reem Abdel-Salam
+23	Rishit Chugh
+24	Rishita Bansal
+25	Sayan Kumar
+26	Shantanu Sugriv Kshirsagar
+27	Shashank Singh
+28	Shilpa Gollamudi
+29	Shinjan Verma
+30	Sourav Dutta
+31	Srijeeta Mukherjee
+32	Vimukta Dashora
+33	Wallace Ferreira
     
     """
 
